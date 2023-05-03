@@ -9,4 +9,7 @@ echo "We are done with git"
 echo "This example is of branching strategy"
 echo "Welcome to DevOps"
 echo "Welcome to AWS"
+echo "Good Morning"
+echo "Good Night"
+
 
