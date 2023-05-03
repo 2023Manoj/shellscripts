@@ -11,5 +11,4 @@ echo "Good Morning"
 echo "Good Afternoon"
 echo "Good Night"
 echo "You are very nice"
-echo "You are bad guy"
-echo "Mahindra"
+
