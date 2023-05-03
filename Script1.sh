@@ -7,6 +7,9 @@ echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
+echo "Welcome to DevOps"
+echo "Welcome to AWS"
 echo "Good Morning"
 echo "Good Night"
+
 
