@@ -19,5 +19,7 @@ fi
 echo "Good Evening "
 echo "Good Morning"
 echo "Good Night"
+echo "Welcome AWS"
+echo "Welcome DevOps"
 
 
