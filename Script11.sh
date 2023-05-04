@@ -17,5 +17,7 @@ else
  echo "None of the condition met"
 fi
 echo "Good Evening "
+echo "Good Morning"
+echo "Good Night"
 
 
