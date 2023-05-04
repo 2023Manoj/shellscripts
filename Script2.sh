@@ -7,3 +7,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "This is sample change"
 echo "This is very simple change "
+echo "Good Evening"
+echo "Good Night"
