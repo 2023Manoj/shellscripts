@@ -9,4 +9,6 @@ echo "my new JDK home is=$JDK_HOME"
 echo "welcome AWS"
 echo "welcome DevOps"
 echo "Good Evening"
+echo "I am working in MMFSL"
+echo "I am working in MRHFL"
 
