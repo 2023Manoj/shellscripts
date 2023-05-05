@@ -13,3 +13,6 @@ echo "Good Wife"
 echo "Good Son"
 echo "MMFSL"
 echo "MRHFL"
+echo "MIBL"
+echo "MIMPCL"
+
