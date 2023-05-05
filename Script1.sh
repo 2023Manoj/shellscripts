@@ -9,5 +9,6 @@ echo "We are done with git"
 echo "This example is of branching strategy"
 echo "My Name is DON"
 echo "My Name is Manoj Bhadane"
+echo "My Name is Mahindra"
 
 
