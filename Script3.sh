@@ -13,5 +13,7 @@ echo "I am working in MMFSL"
 echo "I am working in MRHFL"
 echo "I am BITS "
 echo "I am IT Engg"
+echo "I am Mech Engg."
+echo "I am Manoj"
 
 
