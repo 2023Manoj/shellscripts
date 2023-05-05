@@ -6,3 +6,4 @@ PROFESSION=AWS/DevOps
 echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
 echo "this is my class"
 echo "this is my Teacher"
+echo "This is My Class Teacher"
