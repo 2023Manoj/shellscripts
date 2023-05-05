@@ -19,5 +19,6 @@ echo "Harish Thakur"
 echo "Daya Nikam"
 echo "Manoj Bhadane"
 echo "Lalit J"
-
+echo "Mahindra Finance"
+echo "Mahindra Rural Fin"
 
