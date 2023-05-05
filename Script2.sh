@@ -17,4 +17,7 @@ echo "MIBL"
 echo "MIMPCL"
 echo "Harish Thakur"
 echo "Daya Nikam"
+echo "Manoj Bhadane"
+echo "Lalit J"
+
 
