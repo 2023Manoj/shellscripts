@@ -18,5 +18,7 @@ echo "Vaishali Bhadane"
 echo "Swara"
 echo "Ramrao Bhadane"
 echo "Surekha Bhadane"
+echo "Harish Thakur"
+echo "Daya Nikam"
 
 
