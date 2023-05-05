@@ -8,5 +8,6 @@ echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
 echo "My Name is DON"
+echo "My Name is Manoj Bhadane"
 
 
