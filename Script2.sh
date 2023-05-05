@@ -15,4 +15,6 @@ echo "MMFSL"
 echo "MRHFL"
 echo "MIBL"
 echo "MIMPCL"
+echo "Harish Thakur"
+echo "Daya Nikam"
 
