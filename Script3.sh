@@ -17,5 +17,8 @@ echo "I am Mech Engg."
 echo "I am Manoj"
 echo "MMFSL"
 echo "MRHFL"
+echo "MIBL"
+echo "MIMPCL"
+
 
 
