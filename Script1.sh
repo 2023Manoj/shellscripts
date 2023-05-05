@@ -8,5 +8,7 @@ echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
 echo "This is Batch-18"
+echo "welcome AWS"
+echo "Welcome DevOps"
 
 
