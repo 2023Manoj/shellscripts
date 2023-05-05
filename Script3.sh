@@ -15,5 +15,7 @@ echo "I am BITS "
 echo "I am IT Engg"
 echo "I am Mech Engg."
 echo "I am Manoj"
+echo "MMFSL"
+echo "MRHFL"
 
 
