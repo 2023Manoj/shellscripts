@@ -13,4 +13,6 @@ echo "Welcome DevOps"
 echo "Manoj"
 echo "Good Morning"
 echo "Good Day"
+echo "Good Evening"
+echo "I love You"
 
