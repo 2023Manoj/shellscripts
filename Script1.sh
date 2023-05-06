@@ -11,4 +11,6 @@ echo "This is Batch-18"
 echo "welcome AWS"
 echo "Welcome DevOps"
 echo "Manoj"
+echo "Good Morning"
+echo "Good Day"
 
