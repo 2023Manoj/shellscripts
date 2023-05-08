@@ -11,6 +11,9 @@ echo "This is Afternoon"
 echo "This is Evening"
 echo "This is Night"
 echo "This is Goodnight"
+echo "Mahindra Fin"
+echo "MIMPCL"
+echo "MIBL"
 
 
 
