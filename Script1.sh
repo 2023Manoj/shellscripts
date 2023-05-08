@@ -7,7 +7,10 @@ echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
+echo "This is Afternoon"
+echo "This is Evening"
 echo "This is Night"
 echo "This is Goodnight"
+
 
 
