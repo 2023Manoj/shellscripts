@@ -9,5 +9,7 @@ echo "This is sample change"
 echo "This is very simple change "
 echo "Manoj Bhadane"
 echo "Swara Patil"
+echo "Surekha"
+echo "Mona"
 
 
