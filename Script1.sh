@@ -11,6 +11,8 @@ echo "Good Afternoon"
 echo "Good Evening "
 echo "This is AWS"
 echo "This is DevOps"
+echo "MMFSL"
+echo "MRHFL"
 
 
 
