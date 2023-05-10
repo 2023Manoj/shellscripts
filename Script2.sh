@@ -11,5 +11,7 @@ echo "Manoj Bhadane"
 echo "Swara Patil"
 echo "Surekha"
 echo "Mona"
+echo "Lata'
+echo "Jija"
 
 
