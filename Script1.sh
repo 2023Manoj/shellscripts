@@ -9,6 +9,8 @@ echo "We are done with git"
 echo "This example is of branching strategy"
 echo "Good Afternoon"
 echo "Good Evening "
+echo "This is AWS"
+echo "This is DevOps"
 
 
 
