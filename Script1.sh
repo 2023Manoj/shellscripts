@@ -9,8 +9,7 @@ echo "We are done with git"
 echo "This example is of branching strategy"
 echo "I am MRHFL ALN"
 echo "All work done"
-echo "Branch visit completed "
-echo "Go to Home or whore girls for fucking"
+echo "I am Man"
 
 
 
