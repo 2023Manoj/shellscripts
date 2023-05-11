@@ -12,6 +12,9 @@ echo "All work done"
 echo "I am Man"
 echo "Branch Visit Done"
 echo "Go to Home"
+echo "I am Fine"
+echo "Who are you"
+
 
 
 
