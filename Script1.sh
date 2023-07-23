@@ -10,9 +10,7 @@ echo "This example is of branching strategy"
 echo "I am MRHFL ALN"
 echo "All work done"
 echo "I am Man"
-echo "Branch Visit Done"
-echo "Desktop Installation done"
-echo "Printer installation done"
+
 
 
 
