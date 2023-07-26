@@ -7,9 +7,7 @@ echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
-echo "I am MRHFL ALN"
-echo "All work done"
-echo "Mission Impossible 4"
+echo "I am work in M & M Finance"
 
 
 
