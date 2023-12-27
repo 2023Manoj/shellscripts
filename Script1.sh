@@ -8,8 +8,7 @@ echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
 echo "I am work in M & M Finance"
-echo "we are DevOPs Engg"
-echo "We are AWS engg"
+
 
 
 
