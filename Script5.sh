@@ -6,3 +6,4 @@ NAME=DEVOPS
 echo "my name is: $NAME"
 echo "My Name is Manoj"
 echo "My Name is MMFSL"
+echo "My Name is MRHFL"
