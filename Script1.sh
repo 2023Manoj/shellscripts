@@ -8,7 +8,9 @@ echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
 echo "This is my best job"
+echo "He is My Best Friend "
 echo "She is My GF"
+
 
 
 
