@@ -5,3 +5,4 @@ Hello () {
 }
 # calling our function
 Hello
+echo "My Way"
